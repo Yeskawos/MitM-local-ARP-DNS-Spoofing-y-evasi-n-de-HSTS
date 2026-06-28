@@ -64,6 +64,10 @@ Durante el desarrollo del laboratorio nos enfrentamos a las estrictas capas de o
 
 Evidencias:
 
+<img width="1080" height="1447" alt="buscador" src="https://github.com/user-attachments/assets/a8fefa3e-9302-4d9a-a712-37b70e1144bd" />
+<img width="1026" height="2048" alt="alert" src="https://github.com/user-attachments/assets/038d70f7-4738-4f7d-89cc-8046662fee8b" />
+<img width="1022" height="2048" alt="otra" src="https://github.com/user-attachments/assets/7343b11c-275a-48dd-952d-1d91f5e8426f" />
+
 5. Explotación Exitosa y Monitorización del Tráfico
 
 Con las capas de red depuradas, forzamos el tráfico del cliente hacia nuestro servidor controlado, logrando el impacto visual y el registro síncrono en los logs de auditoría.
