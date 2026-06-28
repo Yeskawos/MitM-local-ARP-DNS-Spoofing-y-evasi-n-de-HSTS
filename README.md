@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Proyecto Red Team: Ataque Man-in-the-Middle (MitM) vía ARP/DNS Spoofing y Evasión de HSTS
 
-**Autor:** Valencia (UPV)
+**Autor:** Córdoba
 
 **Fecha:** 28/06/2026
 
@@ -17,6 +17,8 @@ El proyecto comenzó con la identificación de la topología lógica de la red l
 Evidencias:
 
 <img width="737" height="596" alt="nmap" src="https://github.com/user-attachments/assets/ebc60a88-02bc-4b7a-94c0-af7ff4954cf8" />
+
+(Nota de OpSec: Se han filtrado y difuminado del reporte los dispositivos ajenos al laboratorio, manteniendo visibles únicamente los actores principales del experimento).
 
 ## 2. Preparación del Sistema y Fontanería de Red (ARP Spoofing)
 
